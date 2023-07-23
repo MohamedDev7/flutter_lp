@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111001617149",
+    "project_id": "my-lp-app-2",
+    "storage_bucket": "my-lp-app-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111001617149:android:be9dd678050c02a7fb7494",
+        "android_client_info": {
+          "package_name": "com.pixalloy.lp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111001617149-87e0u9l4092g6l9j784n7qfknhjc010u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZS6uLEwYITQpmn6f4whUs2us9TAudmgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111001617149-87e0u9l4092g6l9j784n7qfknhjc010u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
